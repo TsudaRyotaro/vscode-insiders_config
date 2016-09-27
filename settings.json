@@ -1,0 +1,8 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+    "terminal.integrated.shell.windows": "C:\yourDir\powershell.exe",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.fontSize": 16,
+    "window.openFilesInNewWindow": false,
+    "window.reopenFolders": "none"
+}
