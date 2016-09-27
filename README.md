@@ -18,7 +18,7 @@
 <p>settings.jsonおよびprofileのパスを通す</p>
 <p>実行ポリシーの関係からデフォルトでは外部スクリプトを参照できないので<a href="http://www.atmarkit.co.jp/ait/articles/0805/16/news139.html">実行ポリシー変更</a></p>
 
-<h2>機能</p>
+<h2>機能</h2>
 <p>code [ファイル名]でvscode-insiders上でファイルが開きます。新規でウィンドウが立ち上がらないので煩雑にならないうえターミナル＜－＞エディター間がシームレスに</p>
 <p>grepコマンド使えます。内部的にpowershellのコマンドを呼んでいるだけなので少しクセが有ります</p>
 <p>touchコマンド使えます。touch [ファイル名]で今いるディレクトリにファイルつくります。-ItemTypeはファイルです。niコマンド使うとItemTypeも選べます</p>
