@@ -21,7 +21,7 @@ function Prompt {
 }
 
 Set-Alias grep 'Select-String'
-Set-Alias touch 'C:\Users\Ryotaro.TSUDA\Documents\WindowsPowerShell\touch.ps1'
+Set-Alias touch 'C:\Users\yourname\Documents\WindowsPowerShell\touch.ps1'
 Set-Alias code 'code-insiders'
-Set-Alias tcode 'C:\Users\Ryotaro.TSUDA\Documents\WindowsPowerShell\touchcode.ps1'
+Set-Alias tcode 'C:\Users\yourname\Documents\WindowsPowerShell\touchcode.ps1'
 
